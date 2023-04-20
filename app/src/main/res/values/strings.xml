@@ -6,4 +6,5 @@
     <string name="forgot_password">Forgot Password?</string>
     <string name="login">Login</string>
     <string name="login_to_gomumma">Login to GoMumma</string>
+    <string name="if_no_account">Don\'t have an account? Create one!</string>
 </resources>
