@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">GoMumma</string>
     <string name="hello_world">Hello World!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="login_to_gomumma">Login to GoMumma</string>
 </resources>
