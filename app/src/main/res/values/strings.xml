@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">GoMumma</string>
-    <string name="hello_abhi">Hello Abhi!</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
